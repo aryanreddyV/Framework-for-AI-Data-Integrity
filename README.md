@@ -13,7 +13,7 @@ ALL
 
 ###THIS PROJECT CONSISTS 
 1. 215 PAGES OF DATA collected from AI-as-a-tool by using my own method to extract data.
-2. IDEA & METHODOLOGY.
+2. IDEAS & METHODOLOGIES.
 3. FUTURE IMPROVEMENTS.
 4. PURPOSE & SOLUTION. 
 
