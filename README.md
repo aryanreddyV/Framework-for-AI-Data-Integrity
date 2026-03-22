@@ -1,12 +1,12 @@
-AI as a tool- Data synthesis Project: Blackhole Data synthesis PROJECT
+PURE and IMPURE DATA: Blackhole Data synthesis and Data verification PROJECT
 The Mind & Executioner behind the project: Vukkadapu Aryan Reddy
 
-(THIS WHOLE REPOSITORY & PROJECT & THE IDEAS, PURPOSE, METHODOLOGY, SOLUTION: ALL ARE MY OWN THOUGHT, CREATION, & OPINION)
+(THIS WHOLE REPOSITORY & PROJECT & THE IDEAS, PURPOSE, METHODOLOGIES, SOLUTION: ALL ARE MY OWN THOUGHT, CREATION, & OPINION)
 I WHOLEHEARTEDLY PROMISE THAT I TOOK NO "GUIDANCE OR KNOWLEDGE FROM SOMEONE ELSE" AND I WAS ABLE TO DO ALL OF THIS ON MY OWN. 
 AS PROOF, YOU CAN SEE MY PROJECT PROOF OF WORK: DATA COLLECTED FROM AI BY USING MY METHOD, AND THE FILES IN THIS REPOSITORY.
 
 This is a very simple, yet meaningful project. Which might even make the world better than today.
-I went from curiosity of blackholes->idea of the project-> Thought and Methodology-> execution of the project-> purpose-> solution for impure data....
+I went from curiosity of blackholes->idea of the project-> Thought and Methodologies-> execution of the project-> purpose-> solution for impure data....
 
 We can find a solution which can make the world far better than today. With the help of the understanding of my project, we get a glimpse of future.
 ALL
