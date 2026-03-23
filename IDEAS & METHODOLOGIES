@@ -10,7 +10,7 @@ idea of the efficiency of AI generating pure and impure data.
 I then found the real purpose of this work. I would then collect all my ideas and jumble up one another to form a process for getting efficient data generated 
 by AI using my TREE Method. 
 But, to show that my method is efficient than normal demanding prompts with no effort, I should make a report which compares the 
-efficiency rates of normal demanding prompts, and the prompts using TREE METHOD. I then will add a strategy to verify data. 
+efficiency rates of normal demanding prompts, and the prompts using TREE METHOD. I then will add a strategy to verify data. I will use my MPDVCO Method in the project.
 My idealogy and methods are one of the solutions out there in the wild for the problem "PURE & IMPURE DATA".
 
 Both the methods for DATA EXTRACTION and DATA VERIFICATION are below: 
@@ -18,21 +18,21 @@ Both the methods for DATA EXTRACTION and DATA VERIFICATION are below:
 ________________________________________________________________________________________________________________________________________________________________________
 METHODOLOGY::::
 ........................................................................................................................................................................
-METHOD FOR DATA EXTRACTION::
+METHOD FOR DATA EXTRACTION:::
 I used my own simple methodology which I call it the "Trunk-Branch-Leaf method" or the "TREE Method".
 
-TREE METHOD//TRUNK-BRANCH-LEAF METHOD:
+TREE METHOD//TRUNK-BRANCH-LEAF METHOD::
 1. Firstly, I noted down all the major topics of research done up to the date of summer 2025. (TRUNK)
 2. Secondly, I then noted down the sub-topics within these major topics of the research noted down. (BRANCH)
 3. Finally, I extracted data of each and every subtopic in an order from one to another in a manner. (LEAF)
 .........................................................................................................................................................................
-METHOD FOR DATA VERIFICATION::
-I simply used my own created DV method, known as, "MPDVCO Method" or the "MANUAL-PURE DATA-VERIFICATION-and-CALCULATION-in-ORDER method".
+METHOD FOR DATA VERIFICATION:::
+I simply used my own created Data verification method, known as, "MPDVCO Method" or the "MANUAL-PURE DATA-VERIFICATION-and-CALCULATION-in-ORDER method".
 
-PDVCO METHOD//PURE DATA-VERIFICATION-and-CALCULATION-in-ORDER METHOD:
-1. Firstly, I would search trusted sources of information like one example is "www.wikepedia.com" for each and every minor topic in order. (SEARCH).
-2. Secondly, I would check all the data I have collected manually by searching all the trusted sources of information for each and every subtopic in order.(VERIFICATION). 
-3. Finally, I would calculate the percentage of pure data present in the data which I collected by using TREE Method on CHATGPT 4. (CALCULATION).
+MPDVCO METHOD//MANUAL-PURE DATA VERIFICATION & CALCULATION in ORDER METHOD::
+1. Firstly, I would search for trusted sources of information like "www.wikepedia.com" for each and every minor topic in order. (SEARCH).
+2. Secondly, I would verify all the data I have collected manually by comparing all the trusted sources of information for each and every subtopic in order.(VERIFICATION). 
+3. Finally, I would calculate the percentage of purity of the data which I collected by using the TREE Method "own prompting technique" on the AI CHATGPT 4. (CALCULATION).
 _________________________________________________________________________________________________________________________________________________________________________
 
 These are my own ideas and methodologies which worked proficiently in this specific project and to EXTRACT DATA & VERIFY PURE DATA.
