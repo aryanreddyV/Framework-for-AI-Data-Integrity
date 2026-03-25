@@ -1,6 +1,6 @@
 PURE and IMPURE DATA:::: Blackhole Data Synthesis & Data Verification
 
-Lead Researcher & Developer: Vukkadapu Aryan Reddy
+Lead Researcher & Developer::: Vukkadapu Aryan Reddy
 
 Project Overview:::
 This repository contains a comprehensive research project focused on the synthesis and verification of data through the lens of blackhole theory. 
